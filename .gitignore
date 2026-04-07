@@ -1,6 +1,3 @@
 # Jekyll
 _site/
 .jekyll-cache/
-assets/css/styles.scss
-Gemfile.lock
-Gemfile
