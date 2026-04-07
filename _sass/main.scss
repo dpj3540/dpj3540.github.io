@@ -1,3 +1,20 @@
 .current {
   color: green;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  flex: 1;
+}
+
+.site-footer {
+  padding: 0.8rem 1rem;
+  background: #f8f8f8;
+  align-self: flex-end;
+}
