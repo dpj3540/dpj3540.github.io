@@ -13,6 +13,15 @@ main {
   flex: 1;
 }
 
+footer{
+  position: fixed;
+  bottom: 0;
+  right: 0; /* 改成 left: 0; 就是左下角 */
+  margin: 1rem;
+  background: rgba(255,255,255,0.9);
+  padding: 0.5rem 1rem;
+}
+
 .site-footer {
   padding: 0.8rem 1rem;
   background: #f8f8f8;
